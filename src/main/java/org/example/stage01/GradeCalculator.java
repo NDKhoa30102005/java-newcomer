@@ -21,7 +21,7 @@ public class GradeCalculator {
         }
 
         String grade;
-        if (score > 90) {
+        if (score >= 90) {
             grade = "A";
         } else if (score >= 80) {
             grade = "B";
