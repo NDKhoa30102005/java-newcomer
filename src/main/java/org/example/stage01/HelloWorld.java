@@ -1,4 +1,4 @@
-package org.example;
+package org.example.stage01;
 
 public class HelloWorld {
     public static void main(String[] args) {
